@@ -16,7 +16,7 @@ pages = {257--276}
 
 We collect the public information of `975,858` repositories, `2,227,244` images, and `349,860` developers on Docker Hub.
 
-The dataset is available [here (Google Driver)](https://drive.google.com/drive/folders/1sOG19JM0X5k0s-AJsYvnppT3klc0YpWt?usp=sharing).
+The dataset is available [here (Google Drive)](https://drive.google.com/drive/folders/1sOG19JM0X5k0s-AJsYvnppT3klc0YpWt?usp=sharing).
 
 ## repos-list.txt
 
