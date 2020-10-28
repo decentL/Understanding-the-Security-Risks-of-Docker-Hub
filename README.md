@@ -93,9 +93,9 @@ For example, the meta-information of the images in repository `belibak/mysql` ca
                     "os_features": null
                 }
             ],
-            "id": 8345794
+            "id": 8345794,
             "repository": 1269944,
-            "creator": 1271838
+            "creator": 1271838,
             "last_updater": 1271838,
             "last_updated": "2017-02-21T13:13:31.082200Z",
             "image_id": null,
